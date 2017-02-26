@@ -94,9 +94,12 @@
                     </h3>
 
                     <!--Envio de e-mail -->
-                    <p><a href="mailto:contato@comprinhassp.com.br" class="btn btn-default btn-lg"><strong>Posso ajudar?</strong></a></p>
+                    <nav class="mainmenu">
+                            <p><a href="#cadastro" class="btn btn-default btn-lg"><strong>Posso ajudar?</strong></a></p>
+                    </nav>
+
                     <!--temp footer-->
-                    <p id="copyright">Copyright ©2017 Todos os direitos reservados.Uma ideia do <img draggable="false" class="emoji" alt="❤" src="http://comprinhassp.com.br/assets/images/h.png" data-pin-nopin="true"></footer>
+                    <p id="copyright">Copyright ©2017 Todos os direitos reservados.Uma ideia do <img draggable="false" class="emoji" alt="❤" src="http://comprinhassp.com.br/assets/images/h.png" data-pin-nopin="true" ></footer>
                         <style type="text/css">
                             #copyright {
                                 text-shadow: 2px 1px 1px #000;
@@ -294,20 +297,23 @@
                 <div class="col-sm-4 col-sm-offset-2 linesborder">
                     <h5><strong>Quero me cadastrar!<br></strong></h5>
                     <p class="cadastro"><span style="text-align:justify; text-shadow: none">
-                        <form method="post" action="cadastro.php">
+                        <form method="post" action="#" id="formulario">
                             <label>Nome: </label><br>
-                            <input type="text" name="nome" class="form-control" required placeholder="Digite seu Nome" autofocus oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
-                            
-                            <label>Sobrenome: </label><br>
-                            <input type="text" name="sobrenome" required class="form-control" placeholder="Digite seu Sobrenome" oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
+                            <input type="text" id="nome" name="nome" class="form-control" required placeholder="Digite seu Nome" autofocus oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
                             
                             <label>Celular: </label><br>
-                            <input type="tel" class="form-control" name="telefone" required  placeholder="Ex.: (00) 0000-0000" maxlength="14" oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
+                            <input type="tel" class="form-control" id="telefone" name="telefone" required  placeholder="Ex.: (00) 0000-0000" maxlength="14" oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
                             
                             <label>Email: </label><br>
-                            <input type="email" class="form-control" name="email" placeholder="Ex.: email@dominio.com.br" required oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
+                            <input type="email" class="form-control" id="email" name="email" placeholder="Ex.: email@dominio.com.br" required oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
+
+                            <label>Senha: </label><br>
+                            <input type="password" id="senha" name="senha" required class="form-control" placeholder="Digite a Senha" oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
+
+                            <label>Confirme a Senha: </label><br>
+                            <input type="password" id="mesma-senha" name="mesma_senha" required class="form-control" placeholder="Confirme a Senha" oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
                             
-                            <input type="submit" class="btn btn-default" value="Cadastrar" name="cadastrar" onclick="valida();"><br>
+                            <input type="submit" class="btn btn-default btn-lg" value="Cadastrar" name="cadastrar" onclick="validar()"><br>
                         </form>
                     </p>
 						
