@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="pt-br" class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <title>Social Facebook!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="conteudo">
+        <h1>Deixe seu comentário para nosso Facebook!</h1>
+        <p>Ficaremos muito felizes com seu comentário, e com enorme prazer em recebê-lo</p>
+
+        <h2>Seu comentário para o Comprinhas Sp é?</h2>
+        <div id="fb-root"></div>
+        <script>
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) {
+                    return;
+                }
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+
+        <div class="fb-comments" data-href="www.comprinhassp.com.br" data-num-posts="5" data-width="984"></div>
+
+    </div>
+</body>
+
+</html>

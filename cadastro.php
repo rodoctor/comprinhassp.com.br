@@ -2,11 +2,11 @@
 	include "conecta_db.php";
 
 	$nome = $_POST['nome'];
+	$sobrenome = $_POST['sobrenome'];
 	$telefone = $_POST['telefone'];
 	$email = $_POST['email'];
-	$senha = $_POST['senha'];
 
-	$query = "INSERT INTO `cadastros`(`nome`, `telefone`, `email`, 'senha') VALUES ('$nome', $telefone','$email', 'senha')";
+	$query = "INSERT INTO `cadastros`(`nome`, `sobrenome`, `telefone`, `email`) VALUES ('$nome','$sobrenome','$telefone','$email')";
 
 	//Seleciona Tabela
 	mysqli_select_db($conecta,"cadastros");
