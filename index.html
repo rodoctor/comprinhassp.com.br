@@ -310,20 +310,23 @@
                 <div class="col-sm-4 col-sm-offset-2 linesborder">
                     <h5><strong>Quero me cadastrar!<br></strong></h5>
                     <p class="cadastro"><span style="text-align:justify; text-shadow: none">
-                        <form method="post" action="cadastro.php">
-                            <label>Nome: </label><br>
-                            <input type="text" name="nome" class="form-control" required placeholder="Digite seu Nome" autofocus oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
-                            
-                            <label>Sobrenome: </label><br>
-                            <input type="text" name="sobrenome" required class="form-control" placeholder="Digite seu Sobrenome" oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
+                        <form id="formulario" method="post" action="#">
+                            <label>Nome Completo: </label><br>
+                            <input type="text" name="nome" id="nome" class="form-control" required placeholder="Digite seu Nome" autofocus><br>
                             
                             <label>Celular: </label><br>
-                            <input type="tel" class="form-control" name="telefone" required  placeholder="Ex.: (00) 0000-0000" maxlength="14" oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
+                            <input type="tel" class="form-control" name="telefone" id="telefone" required  placeholder="Ex.: (00) 0000-0000" maxlength="14"><br>
                             
                             <label>Email: </label><br>
-                            <input type="email" class="form-control" name="email" placeholder="Ex.: email@dominio.com.br" required oninvalid="this.setCustomValidity('Preencha correramente este campo')"><br>
+                            <input type="email" class="form-control" name="email" id="email" placeholder="Ex.: email@dominio.com.br" required><br>
+
+                            <label>Senha: </label><br>
+                            <input type="password" class="form-control" name="senha" id="senha" placeholder="Digite sua senha" required ><br>
+
+                            <label>Confirme a Senha: </label><br>
+                            <input type="password" class="form-control" name="mesma_senha" id="mesma_senha" placeholder="Confirme sua senha" required><br>
                             
-                            <input type="submit" class="btn btn-default" value="Cadastrar" name="cadastrar" onclick="valida();"><br>
+                            <input type="submit" class="btn btn-default" value="Cadastrar" name="cadastrar" onclick='valida()'><br>
                         </form>
                     </p>
 						
