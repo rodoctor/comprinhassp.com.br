@@ -36,23 +36,30 @@
     <!--<link href="http://fonts.googleapis.com/css?family=Wire+One" rel="stylesheet"" type="text/css">-->
 
 
-
-    <script>
-        (function(i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function() {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', 'UA-77911829-1', 'auto');
-        ga('send', 'pageview');
-    </script>
+  <style type="text/css">
+        #copyright {
+            text-shadow: 2px 1px 1px #000;
+            font-family: 'Amatic SC', cursive;
+            padding-bottom: 10px;
+            font-size: 22px;
+            line-height: 20px;
+            color: white;
+            text-align: center;
+        }
+        
+        img.emoji {
+            text-shadow: 1px 1px 0px #000;
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+    </style>
 
 
 </head>
@@ -99,53 +106,15 @@
                     <p><a href="mailto:contato@comprinhassp.com.br" class="btn btn-default btn-lg"><strong>Posso ajudar?</strong></a></p>
                     <!--temp footer-->
 
-                    <a href="https://twitter.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/twitter-logo-button_zps83wxqslj.png" alt=" " title="Twitter" data-pin-nopin="true"></a>
-                    <a href="https://www.instagram.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/instagram-logo_zpsrcoqjhbq.png" alt=" " title="Me siga no Instagram" data-pin-nopin="true"></a>
-                    <a href="https://www.facebook.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/facebook-logo-button_zps9r39ka5j.png" alt=" " title="Curta minha página" data-pin-nopin="true"></a>
-
-
-                    <p id="copyright">Comprinhas Sp CNPJ: 27.097.897/0001-70 Copyright ©2017 Todos os direitos reservados.Uma ideia do <img draggable="false" class="emoji" alt="❤" src="http://comprinhassp.com.br/assets/images/h.png" data-pin-nopin="true"></footer>
-                        <style type="text/css">
-                            #copyright {
-                                text-shadow: 2px 1px 1px #000;
-                                font-family: 'Amatic SC', cursive;
-                                padding-bottom: 10px;
-                                font-size: 22px;
-                                line-height: 20px;
-                                color: white;
-                                text-align: center;
-                            }
-                            
-                            img.emoji {
-                                text-shadow: 1px 1px 0px #000;
-                                display: inline !important;
-                                border: none !important;
-                                box-shadow: none !important;
-                                height: 1em !important;
-                                width: 1em !important;
-                                margin: 0 .07em !important;
-                                vertical-align: -0.1em !important;
-                                background: none !important;
-                                padding: 0 !important;
-                            }
-                        </style>
-                        <br>
-
+                    <footer>
+                        <?php include('footer.php');?>
+                    </footer><br>
                 </div>
                 <!-- /col -->
             </div>
             <!-- /row -->
-
         </div>
 
-
-        <center>
-            <a href="http://abcomm.org/associados.php" target="_blank"><img src="https://cdn.awsli.com.br/1/1430/arquivos/selo_abcomm.png" alt="Empresa Associada"></a>
-            <a href="http://www.internetsegura.org/" target="_blank"><img src="https://cdn.awsli.com.br/1/1430/arquivos/segura_interne_erotika.png" data-pin-nopin="true">
-                <a href="http://www.reclameaqui.com.br/indices/wo1eO63_0MLyaj6d/comprinhas-sp/" target="_blank"><img src="https://cdn.awsli.com.br/1/1430/arquivos/selo.png" alt="Empresa Associada"></a>
-            </a><a href="http://www.google.com.br/safebrowsing/diagnostic?site=http://comprinhassp.com.br" target="_blank" /> <img src="./assets/images/site-seguro.gif" alt="Google Security Verification" /><img src="./assets/images/google-safe-browsing.png"
-                alt="Google Security Verification" /></a>
-        </center>
     </section>
 
     <!-- Sobre nos -->
@@ -222,7 +191,12 @@
                         <p><strong><a href="https://twitter.com/comprinhassp" target="_blank"> Twitter</a> | <a href="whatsapp://send?text=http://www.comprinhassp.com.br (SP)11.971034236 "> Whatsapp</a> | <a href="https://www.facebook.com/comprinhassp" target="_blank">Facebook</a></strong></p>
                 </div>
             </div>
+            <footer>
+                <?php include('footer.php');?>
+            </footer><br>
         </div>
+
+        
     </section>
 
 
@@ -253,55 +227,7 @@
                             alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
                     </form>
                     <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-
-
-
-                    <ul class="list-inline list-social">
-                        <li><a href="https://twitter.com/ComprinhasSP" class="btn btn-link" target="_blank"><i 	class="fa fa-twitter fa-fw"></i>  Twitter</a></li>
-                        <!--   <li><a href="https://www.facebook.com/comprinhassp/" class="btn btn-link" target="_blank"><i class="fa fa-facebook fa-fw"></i> Facebook</a></li>
-                        <li><a href="https://www.instagram.com/comprinhassp/" class="btn btn-link" target="_blank"><i class="fa fa-instagram fa-fw"></i> Instagram</a></li>
-                        <li>
-                            <a href="https://www.youtube.com/channel/UCsRFvvuPOHojSg7dQ8u22pA" class="btn btn-link" target="_blank"><i class="fa fa-youtube fa-fw"></i> Youtube</a>
-                        </li>
-                        <li><a href="https://br.pinterest.com/comprinhassp" class="btn btn-link" target="_blank"><i class="fa fa-pinterest fa-fw"></i> Pinterest</a></li>-->
-                        <li>
-                            <a href="whatsapp://send?text=http://www.comprinhassp.com.br (SP)11.971034236 " class="btn btn-link"><i class="fa fa-share-alt"></i> Whatsapp</a>
-                        </li>
-                        <!--footer-->
-                        <a href="https://twitter.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/twitter-logo-button_zps83wxqslj.png" alt=" " title="Twitter" data-pin-nopin="true"></a>
-                        <a href="https://www.instagram.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/instagram-logo_zpsrcoqjhbq.png" alt=" " title="Me siga no Instagram" data-pin-nopin="true"></a>
-                        <a href="https://www.facebook.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/facebook-logo-button_zps9r39ka5j.png" alt=" " title="Curta minha página" data-pin-nopin="true"></a>
-
-                        <p id="copyright">Comprinhas Sp CNPJ: 27.097.897/0001-70 Copyright ©2017 Todos os direitos reservados.Uma ideia do <img draggable="false" class="emoji" alt="❤" src="http://comprinhassp.com.br/assets/images/h.png" data-pin-nopin="true"></footer>
-                            <style type="text/css">
-                                #copyright {
-                                    text-shadow: 2px 1px 1px #000;
-                                    font-family: 'Amatic SC', cursive;
-                                    padding-bottom: 10px;
-                                    font-size: 22px;
-                                    line-height: 20px;
-                                    color: white;
-                                    text-align: center;
-                                }
-                                
-                                img.emoji {
-                                    text-shadow: 1px 1px 0px #000;
-                                    display: inline !important;
-                                    border: none !important;
-                                    box-shadow: none !important;
-                                    height: 1em !important;
-                                    width: 1em !important;
-                                    margin: 0 .07em !important;
-                                    vertical-align: -0.1em !important;
-                                    background: none !important;
-                                    padding: 0 !important;
-                                }
-                            </style>
-
-                    </ul>
-
-                    <!--  </div>
-            </div> -->
+                    <?php include('footer.php');?>
                 </div>
 
     </section>
@@ -341,12 +267,8 @@
                 
             </div>
         </div>
-       <center><a href="https://twitter.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/twitter-logo-button_zps83wxqslj.png" alt=" " title="Twitter" data-pin-nopin="true"></a>
-                    <a href="https://www.instagram.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/instagram-logo_zpsrcoqjhbq.png" alt=" " title="Me siga no Instagram" data-pin-nopin="true"></a>
-                    <a href="https://www.facebook.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/facebook-logo-button_zps9r39ka5j.png" alt=" " title="Curta minha página" data-pin-nopin="true"></a>
-
-         <a href="http://abcomm.org/associados.php" target="_blank"><img src="https://cdn.awsli.com.br/1/1430/arquivos/selo_abcomm.png" alt="Empresa Associada"></a><a href="http://www.internetsegura.org/" target="_blank"><img src="https://cdn.awsli.com.br/1/1430/arquivos/segura_interne_erotika.png" data-pin-nopin="true"></a><a href="http://www.reclameaqui.com.br/indices/wo1eO63_0MLyaj6d/comprinhas-sp/" target="_blank"><img src="https://cdn.awsli.com.br/1/1430/arquivos/selo.png" alt="Empresa Associada"></a><a href="http://www.google.com.br/safebrowsing/diagnostic?site=http://comprinhassp.com.br" target="_blank" /> <img src="./assets/images/site-seguro.gif" alt="Google Security Verification" /><img src="./assets/images/google-safe-browsing.png"
-            alt="Google Security Verification" /></a></center>
+       <?php include('footer.php');?>
+       
     </section>
 
     <!-- Cadastro Concluído -->
@@ -367,31 +289,29 @@
                 
             </div>
         </div>
-         <center><a href="http://abcomm.org/associados.php" target="_blank"><img src="https://cdn.awsli.com.br/1/1430/arquivos/selo_abcomm.png" alt="Empresa Associada"></a><a href="http://www.internetsegura.org/" target="_blank"><img src="https://cdn.awsli.com.br/1/1430/arquivos/segura_interne_erotika.png" data-pin-nopin="true"></a><a href="http://www.reclameaqui.com.br/indices/wo1eO63_0MLyaj6d/comprinhas-sp/" target="_blank"><img src="https://cdn.awsli.com.br/1/1430/arquivos/selo.png" alt="Empresa Associada"></a><a href="http://www.google.com.br/safebrowsing/diagnostic?site=http://comprinhassp.com.br" target="_blank" /> <img src="./assets/images/site-seguro.gif"  alt="Google Security Verification" /><img src="./assets/images/google-safe-browsing.png"
-            alt="Google Security Verification" /></a></center>
+        <?php include('footer.php');?>
 
     </section>
+
 
     <!-- Load js libs only when the page is loaded. -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     <script src="assets/js/modernizr.custom.72241.js"></script>
-    <script src="js/valida.js"></script>
+    <!-- End of Load js libs -->
+
+
     <!-- Custom template scripts -->
     <script src="assets/js/magister.js"></script>
+    <script src="js/valida.js"></script>
+    <script src="js/google_analytics.js"></script>
+    <!-- End of Custom templates -->
+
+
 	<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/58bb0650ab48ef44eccff25e/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
+    <script src="js/tawk_to.js"></script>
+    <!--End of Tawk.to Script-->
+
 </body>
 
 </html>
