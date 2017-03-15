@@ -106,7 +106,7 @@ body {
 .mainmenu .dropdown-menu a {
     padding: 10px 10px;
     margin: 0;
-    color: white;
+    color: #FFF;
     text-decoration: none;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -484,6 +484,3 @@ a:active {
 .thumbnail .caption {
     color: inherit;
 }
-
-
-

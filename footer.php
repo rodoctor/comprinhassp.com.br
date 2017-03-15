@@ -10,3 +10,28 @@
     <a href="http://www.google.com.br/safebrowsing/diagnostic?site=http://comprinhassp.com.br" target="_blank" /> <img src="./assets/images/site-seguro.gif"  alt="Google Security Verification" /><img src="./assets/images/google-safe-browsing.png" alt="Google Security Verification" /></a>
 </center>
 
+<style>
+    #copyright {
+        text-shadow: 2px 1px 1px #000;
+        font-family: 'Amatic SC', cursive;
+        padding-bottom: 10px;
+        font-size: 22px;
+        line-height: 20px;
+        color: white;
+        text-align: center;
+    }
+
+    img.emoji {
+        text-shadow: 1px 1px 0px #000;
+        display: inline !important;
+        border: none !important;
+        box-shadow: none !important;
+        height: 1em !important;
+        width: 1em !important;
+        margin: 0 .07em !important;
+        vertical-align: -0.1em !important;
+        background: none !important;
+        padding: 0 !important;
+    }
+</style>
+

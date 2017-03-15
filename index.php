@@ -3,82 +3,35 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!-->
-<html lang="en, pt-br" class="no-js">
+<html lang="pt-br" class="no-js">
 <!--<![endif]-->
 
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
-    <meta charset="UTF-8" http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Compre hoje mesmo roupas,make ups, cremes, sapatos, tenis, bijouterias, relógios e muito mais produtos com o melhor preço da cidade de São Paulo com entregas para todo Brasil.">
-    <meta name="keywords" content="mulheres, confiança, conceito, vendas, produtos, pessoas, comprinhas , serviços, preciso de, eu queria, quero,  poderia me ajudar, como conseguir, onde comprar, preço bom, facilidade, compras baratas, compras em são paulo, conveniencia , são paulo, lojas, descontos, promoções">
-    <meta name="author" content="ComprinhasSP">
     <title>.::COMPRINHAS SP::.</title>
-    <link rel="shortcut icon" href="assets/images/gt_favicon.ico">
-    <!--meta og:-->
-    <meta property="og:locale" content="pt_BR" />
-    <meta property="og:title" content="COMPRINHAS SP" />
-    <meta property="og:image" content="http://comprinhassp.com.br/assets/images/bag.png" />
-    <meta property="og:url" content="http://comprinhassp.com.br/" />
-    <meta property="og:site_name" content="COMPRINHAS SP" />
-    <meta property="og:description" content="Compre hoje mesmo roupas,make ups, cremes, sapatos, tenis, bijouterias, relógios e muito mais produtos com o melhor preço da cidade de São Paulo com entregas para todo Brasil." />
-    <meta property="og:type" content="website" />
-    <!---meta selo Norton-->
-    <meta name="norton-safeweb-site-verification" content="cbgxiag8tsc4zdx3smzzrcht1wn9lsi-qm5du2tdrtsb9may-i7i99epmbau8w--vgfddd071mn608aylzhy3hmgujtohxhxkqey792o4rpn9gufng70gre4cer2dxgk" />
-    <!-- Bootstrap itself -->
-    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <!-- Custom styles -->
-    <link rel="stylesheet" href="assets/css/comcode.css">
-
-    <!-- Fonts -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
-    <!--<link href="http://fonts.googleapis.com/css?family=Wire+One" rel="stylesheet"" type="text/css">-->
-
-
-  <style type="text/css">
-        #copyright {
-            text-shadow: 2px 1px 1px #000;
-            font-family: 'Amatic SC', cursive;
-            padding-bottom: 10px;
-            font-size: 22px;
-            line-height: 20px;
-            color: white;
-            text-align: center;
-        }
-        
-        img.emoji {
-            text-shadow: 1px 1px 0px #000;
-            display: inline !important;
-            border: none !important;
-            box-shadow: none !important;
-            height: 1em !important;
-            width: 1em !important;
-            margin: 0 .07em !important;
-            vertical-align: -0.1em !important;
-            background: none !important;
-            padding: 0 !important;
-        }
-    </style>
-
-
+    <?php include("assets/php/config.php");?>
 </head>
 
 <!-- Theme -->
 
 <body class="theme-invert">
 
+    
     <nav class="mainmenu">
         <div class="container">
             <div class="dropdown">
-                <button type="button" class="navbar-toggle" data-toggle="dropdown"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                <button type="button" class="navbar-toggle" data-toggle="dropdown">
+                    <span class="icon-bar"></span> 
+                    <span class="icon-bar"></span> 
+                    <span class="icon-bar"></span> 
+                </button>
+
                 <!-- <a data-toggle="dropdown" href="#">Dropdown trigger</a> -->
                 <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
                     <li><a href="#head" class="active" style="color: white">HOME</a></li>
                     <li><a href="#about" style="color: white">SOBRE</a></li>
-                    <!--<li><a href="#themes">Themes</a></li> -->
                     <li><a href="#contact" style="color: white">CONTATO</a></li>
                     <li><a href="#cadastro" style="color: white">CADASTRO</a></li>
+                    <li><a href="#comentario" style="color: white">COMENTARIOS</a></li>
                 </ul>
             </div>
         </div>
@@ -104,17 +57,11 @@
 
                     <!--Envio de e-mail -->
                     <p><a href="mailto:contato@comprinhassp.com.br" class="btn btn-default btn-lg"><strong>Posso ajudar?</strong></a></p>
-                    <!--temp footer-->
-
-                    <footer>
-                        <?php include('footer.php');?>
-                    </footer><br>
                 </div>
                 <!-- /col -->
             </div>
             <!-- /row -->
         </div>
-
     </section>
 
     <!-- Sobre nos -->
@@ -191,12 +138,7 @@
                         <p><strong><a href="https://twitter.com/comprinhassp" target="_blank"> Twitter</a> | <a href="whatsapp://send?text=http://www.comprinhassp.com.br (SP)11.971034236 "> Whatsapp</a> | <a href="https://www.facebook.com/comprinhassp" target="_blank">Facebook</a></strong></p>
                 </div>
             </div>
-            <footer>
-                <?php include('footer.php');?>
-            </footer><br>
         </div>
-
-        
     </section>
 
 
@@ -227,16 +169,15 @@
                             alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
                     </form>
                     <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-                    <?php include('footer.php');?>
                 </div>
-
+            </div>
+        </div>
     </section>
 
     <!-- Cadastro -->
     <section class="section" id="cadastro">
         <div class="container">
-
-            <h2 class="text-center title">CADASTRO</h2>
+            <h1 class="text-center title">CADASTRO</h1>
 
             <div class="row">
                 <div class="col-sm-4 col-sm-offset-2 linesborder">
@@ -261,14 +202,24 @@
                             <input type="submit" class="btn btn-default btn-lg" value="Cadastrar" name="cadastrar" onclick='valida()'><br>
                         </form>
                     </p>
-						
                 </div>
-
-                
             </div>
         </div>
-       <?php include('footer.php');?>
-       
+    </section>
+
+        <!-- Comentarios -->
+    <section class="section" id="comentario">
+        <div class="container">
+            <h3 class="text-center title">Deixe seu comentário para nosso Facebook</h3>
+            <div class="row">
+                <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1 text-center">
+                    <div class="subtitle">
+                        <p>Ficaremos muito felizes com seu comentário, e com enorme prazer em recebê-lo</p>
+                    </div>
+                    <div class="fb-comments" data-href="www.comprinhassp.com.br" data-num-posts="5" data-width="auto"></div>
+                </div>
+            </div>
+        </div>
     </section>
 
     <!-- Cadastro Concluído -->
@@ -280,37 +231,17 @@
             <div class="row">
                 <div class="col-sm-4 col-sm-offset-2 linesborder">
                     <h5><strong>Cadastro Realizado com sucesso<br></strong></h5>
-                    <p class="cadastro_ok"><span style="text-align:justify; text-shadow: none">
-                        
-                    </p>
-						
+                    <p class="cadastro_ok"><span style="text-align:justify; text-shadow: none">                        
+                    </p>	
                 </div>
-
-                
             </div>
         </div>
-        <?php include('footer.php');?>
-
     </section>
 
-
-    <!-- Load js libs only when the page is loaded. -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-    <script src="assets/js/modernizr.custom.72241.js"></script>
-    <!-- End of Load js libs -->
-
-
-    <!-- Custom template scripts -->
-    <script src="assets/js/magister.js"></script>
-    <script src="js/valida.js"></script>
-    <script src="js/google_analytics.js"></script>
-    <!-- End of Custom templates -->
-
-
-	<!--Start of Tawk.to Script-->
-    <script src="js/tawk_to.js"></script>
-    <!--End of Tawk.to Script-->
+    <footer>
+        <!--Rodapé-->
+        <?php include('footer.php');?>
+    </footer>
 
 </body>
 
