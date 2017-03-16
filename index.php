@@ -1,21 +1,12 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!-->
 <html lang="pt-br" class="no-js">
-<!--<![endif]-->
-
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
     <title>.::COMPRINHAS SP::.</title>
     <?php include("assets/php/config.php");?>
 </head>
 
-<!-- Theme -->
-
 <body class="theme-invert">
-
-    
+   
     <nav class="mainmenu">
         <div class="container">
             <div class="dropdown">
@@ -24,8 +15,6 @@
                     <span class="icon-bar"></span> 
                     <span class="icon-bar"></span> 
                 </button>
-
-                <!-- <a data-toggle="dropdown" href="#">Dropdown trigger</a> -->
                 <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
                     <li><a href="#head" class="active" style="color: white">HOME</a></li>
                     <li><a href="#about" style="color: white">SOBRE</a></li>
@@ -36,16 +25,12 @@
             </div>
         </div>
     </nav>
-
-
-    <!-- Home -->
     <section class="section" id="head">
         <div class="container">
 
             <div class="row">
                 <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1 text-center">
-
-                    <!-- Site Title, HELLO msg, etc. -->
+                   
                     <h1 class="title">COMPRINHAS SP</h1>
                     <h2 class="subtitle">O mais novo conceito de compras de São Paulo</h2>
 
@@ -54,13 +39,9 @@
                         Já pensou em pedir para alguém fazer suas compras???<br> Exatamente isso que você leu, sabemos que a falta de tempo atrapalha, então resolvemos ajudar...<br><strong>Como?</strong><br>Compraremos o que você precisa em São Paulo
                         e faremos com que seu pedido chegue até você. Simples assim!
                     </h3>
-
-                    <!--Envio de e-mail -->
                     <p><a href="mailto:contato@comprinhassp.com.br" class="btn btn-default btn-lg"><strong>Posso ajudar?</strong></a></p>
                 </div>
-                <!-- /col -->
             </div>
-            <!-- /row -->
         </div>
     </section>
 
@@ -82,7 +63,26 @@
 						<strong>1½.O que tem lá?::</strong><br>
 						Você já pensou em comprar qualquer produto que desejar com um preço muito mais acessível, acessórios, roupas,bolsas, enfeites, make up, eletrônicos, etc...
 						Pois bem, estamos aqui pra te auxiliar com isso.<br><br>
+
+                        <strong>Na região da 25 de março::</strong><br>
+						Temos muita variedades com artigos importados como, roupas, lojas de embalagens, artigos para cozinha em geral, bijouterias, artigos de papelaria, relógios, calçados, vestidos, entre outros artigos com preços super interessantes<br><br>
+						
+						<strong>Na região do Brás::</strong><br>
+						Um grande polo textil , com grandes lojas de roupas, tecidos e outros artigos, com opções muito legais para quem procura roupas com preços muito em conta entre outros objetos <br><br>
 					   
+					   <strong>Na região da Santa Ifigênia::</strong><br>
+                        A maior região de São Paulo com tudo referente à artigos eletrônicos, com grande variedade de peças para compuradores, peças para eletricistas, entre outros artigos eletro-eletrônicos.<br><br>
+					   
+					   
+					   <strong>Na região da Teodoro Sampaio::</strong><br>
+						O verdadeiro paraíso da música, pois tudo que você para qualquer instrumento musical é facilmente encontrado nessa região.<br><br>
+					   
+                        <strong>Na região da Luz | Bom retiro::</strong><br>
+						Outro grande polo textil, com muitas opções de tecido, vendas de tecido por metro, roupas masculinas e femininas.<br><br>
+					   
+                       <strong>Na região da Liberdade::</strong><br>
+						O Japão está em SP pois o mundo oriental, está bem localizado no centro de São Paulo, tudo que precisar com aquele toque oriental, tem por aqui, desde espadas samurais, até produtos japoneses como comida, doces , etc, sem contar a enorme variedade de makes up ;) .<br><br>
+					   					   
 					   <strong>2.Onde estamos?::</strong><br>
                         Entre em contato conosco através de nossas redes sociais (<a href="https://twitter.com/comprinhassp" style="color: #000"target="_blank">Twitter</a> |<a href="https://www.facebook.com/comprinhassp" style="color: #000"target="_blank">Facebook</a> |<a href="https://www.pinterest.com/comprinhassp" style="color: #000" target="_blank"> Pinterest</a> | <a href="https://www.instagram.com/comprinhassp"  style="color: #000" target="_blank">Instagram</a> ) ou mesmo contato direto pelo nosso  <a href="whatsapp://send?text=http://www.comprinhassp.com.br (SP)11.971034236 "style="color:#000"> Whatsapp</a> ou <a href="skype:comprinhassp?chat" style="color:#000">Skype</a>
 					    Estamos sempre em busca de um meio para facilitar.<br><br>
@@ -95,10 +95,7 @@
 					   <strong>4.Certo mas o que eu ganho?::</strong><br>
 						Além da economia de seu tempo, a facilidade e conveniência de efetuar uma compra na loja que desejar em São Paulo-SP 
 					    com um simples contato conosco.<br><br>
-					   <!--
-					   <strong>4½.Mas só isso?::</strong><br>
-						Ainda não terminamos!... Para ganhar mais,faça um simples cadastro em nosso site para ter acesso aos descontos exclusivos oferecidos por lojas parceiras.<br><br>
-						-->
+					   
 						<strong>5.E o meu cadastro?::</strong><br>
 						Fique tranquilo(a) pois não enviaremos propagandas a não ser que seja muito interessante pra você, e-mail marketing ou coisas do tipo. 
 					    <strong>Queremos ser mais que uma empresa, queremos ser seus amigos.</strong><br><br>
@@ -151,24 +148,7 @@
                     <p class="tagline">Teria uma pergunta sobre este projeto?</p>
                     <p class="subtitle">Sinta-se livre para nos enviar um e-mail ou deixar uma linha no Twitter!</p>
                     <p class="mailline"><strong><a href="mailto:contato@comprinhassp.com.br">contato@comprinhassp.com.br</a></strong><br><a href="whatsapp://send?text=http://www.comprinhassp.com.br (SP)11.971034236"> Whatsapp:(SP)11.971034236</a></p>
-
-                    <!-- #1 INICIO FORMULARIO BOTAO PAGSEGURO 
-                    <form action="https://pagseguro.uol.com.br/checkout/v2/payment.html?iot=button" method="post">
-                        <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO 
-                        <input type="hidden" name="code" value="69C2C2FA9C9CDB7114B61F8CF7A8BC41" />
-                        <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/209x48-comprar-assina.gif" name="submit"
-                            alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-                    </form>
-                    <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-
-                    <!-- INICIO FORMULARIO BOTAO PAGSEGURO 
-                    <form action="https://pagseguro.uol.com.br/checkout/v2/payment.html?iot=button" method="post">
-                        <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO 
-                        <input type="hidden" name="code" value="6350C64480801B6664B8DFBF928CCA6A" />
-                        <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/120x53-comprar.gif" name="submit"
-                            alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-                    </form>
-                    <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+             
                 </div>
             </div>
         </div>
@@ -210,7 +190,7 @@
         <!-- Comentarios -->
     <section class="section" id="comentario">
         <div class="container">
-            <h3 class="text-center title">Deixe seu comentário para nosso Facebook</h3>
+            <h3 class="text-center title">Deixe seu comentário para nós</h3>
             <div class="row">
                 <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1 text-center">
                     <div class="subtitle">
@@ -238,7 +218,7 @@
         </div>
     </section>
 
-    <footer>
+       <footer>
         <!--Rodapé-->
         <?php include('footer.php');?>
     </footer>
