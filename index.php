@@ -100,7 +100,7 @@
 						Fique tranquilo(a) pois não enviaremos propagandas a não ser que seja muito interessante pra você, e-mail marketing ou coisas do tipo. 
 					    <strong>Queremos ser mais que uma empresa, queremos ser seus amigos.</strong><br><br>
 						
-                        <strong>5.5 Como faremos as negociações?::</strong><br>
+                        <strong>5.½ Como faremos as negociações?::</strong><br>
                         Faremos as tratativas por <a href="mailto:contato@comprinhassp.com.br" style="color:#000"> e-mail</a>,<a href="skype:comprinhassp?chat" style="color:#000">Skype</a>, <a href="whatsapp://send?text=http://www.comprinhassp.com.br (SP)11.971034236 "style="color:#000"> Whatsapp</a>, Telegram, o que for mais acessível pra você.<br><br> 
 						
 						
@@ -196,11 +196,35 @@
                     <div class="subtitle">
                         <p>Ficaremos muito felizes com seu comentário, e com enorme prazer em recebê-lo</p>
                     </div>
+                    <div class="w3-content w3-section" style="max-width:500px">
+                    <center>
+                          <a href="https://www.facebook.com/comprinhassp" style="color: #000" target="_blank"><img class="mySlides" src="./assets/images/c3.PNG" alt=" " title="Facebook" data-pin-nopin="true"></a>
+                          <a href="https://www.facebook.com/comprinhassp" style="color: #000" target="_blank"><img class="mySlides" src="./assets/images/c2.PNG" alt=" " title="Nossos comentários" data-pin-nopin="true"></a>
+                          <a href="https://www.facebook.com/comprinhassp" style="color: #000" target="_blank"><img class="mySlides" src="./assets/images/c1.PNG" alt=" " title="Curta nossa página" data-pin-nopin="true"></a><br>
+                        </center>
+                        <script>
+                var myIndex = 0;
+        carousel();
+
+                function carousel() {
+                var i;
+                var x = document.getElementsByClassName("mySlides");
+                    for (i = 0; i < x.length; i++) {
+                           x[i].style.display = "none";  
+                                    }
+                myIndex++;
+                    if (myIndex > x.length) {myIndex = 1}    
+                            x[myIndex-1].style.display = "block";  
+                                setTimeout(carousel, 2000); // Change image every 2 seconds
+                                    }
+                        </script>
+
                     <div class="fb-comments" data-href="www.comprinhassp.com.br" data-num-posts="5" data-width="auto"></div>
                 </div>
             </div>
         </div>
     </section>
+   
 
     <!-- Cadastro Concluído -->
     <section class="section" id="cadastro_ok">
