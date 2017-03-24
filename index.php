@@ -54,7 +54,7 @@
             <div class="row">
                 <div class="col-sm-4 col-sm-offset-2 linesborder">
                     <h5><strong>Gostei da Idéia mas como funciona?<br></strong></h5>
-                    <p class="snos"><span style="text-align:justify; text-shadow: none">
+                    <p class="snos">
                       
 						<strong>1.O que eu quero / Onde Compro?::</strong><br>
 						Escolha qualquer produto da cidade de São Paulo Capital: 25 de Março, Brás, Santa Ifigênia, Teodoro Sampaio, Luz, Bom retiro, Centro, Liberdade, Rua das Noivas, etc.<br><br>
@@ -82,7 +82,7 @@
 						O Japão está em SP pois o mundo oriental, está bem localizado no centro de São Paulo, tudo que precisar com aquele toque oriental, tem por aqui; espadas samurais, produtos japoneses, comidas típicas (entrega somente para São Paulo) além de grande variedade de cosméticos, maquiagens e artigos para manicures e cabeleireiros.<br><br>
 					   					   
                         <strong>Na região da Rua São Caetano (Rua das Noivas):</strong><br>
-                        Tudo o que você precisa para o seu grande dia (Casamento). Acessórios para noivas e noivos (arranjos para cabelo, véu, luvas) convites prontos, lembrança para padrinhos e lembrancinhas para festa.
+                        Tudo o que você precisa para o seu grande dia (Casamento). Acessórios para noivas e noivos (arranjos para cabelo, véu, luvas) convites prontos, lembrança para padrinhos e lembrancinhas para festa.<br><br>
 
                         <strong>2.Onde estamos?::</strong><br>
                         Entre em contato conosco através de nossas redes sociais (<a href="https://twitter.com/comprinhassp" style="color: #000"target="_blank">Twitter</a> |<a href="https://www.facebook.com/comprinhassp" style="color: #000"target="_blank">Facebook</a> |<a href="https://www.pinterest.com/comprinhassp" style="color: #000" target="_blank"> Pinterest</a> | <a href="https://www.instagram.com/comprinhassp"  style="color: #000" target="_blank">Instagram</a> ) ou mesmo contato direto pelo nosso  <a href="whatsapp://send?text=http://www.comprinhassp.com.br (SP)11.971034236 "style="color:#000"> Whatsapp</a> ou <a href="skype:comprinhassp?chat" style="color:#000">Skype</a>
@@ -109,13 +109,13 @@
 
                         <strong>Sempre dispostos à auxiliar para que você obtenha seu produto no melhor custo benefício da cidade de São Paulo.</strong><br><br>
                     </p>
-                    </span>
+                    
 
 
                 </div>
                 <div class="col-sm-4 linesborder">
                     <h5><strong>Quem somos!<br></strong></h5>
-                    <p class="snos"><span style="text-shadow:none">
+                    <p class="snos">
 						Paulistas / Paulistanos natos, com <i>know how</i> em diversos seguimentos do comércio.<br>
 						Iniciamos o <strong>COMPRINHAS SP</strong>, comprando e enviando produtos para nossos amigos, amigos de amigos, parentes de São Paulo e outros estados do Brasil.<br>
                         Estamos algum tempo operando no mercado, porém trouxemos a ideia ao mundo digital, onde sentimos a necessidade
@@ -124,7 +124,7 @@
 						portanto estaremos sempre dispostos à auxiliar.<br>
 						Somos uma equipe preparada para comprar seu produto com rapidez e segurança, garantindo o melhor sempre.<br><br>
                         Se ainda resta alguma dúvida e quer saber mais?<br><strong><a href="#contact" style="color: #000">Fale conosco</a></strong>.		
-						</p></span>
+						</p>
 
 
                         <h5><strong>COMPRINHAS-SP links<br></strong></h5>
