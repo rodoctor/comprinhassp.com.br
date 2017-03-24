@@ -57,44 +57,42 @@
                     <p class="snos"><span style="text-align:justify; text-shadow: none">
                       
 						<strong>1.O que eu quero / Onde Compro?::</strong><br>
-						Escolha qualquer produto da cidade de São Paulo Capital, por exemplo:
-                        25 de Março, Brás, Mooca, Teodoro Sampaio, Bom retiro, Centro, Liberdade, Santa Ifigênia, Luz,etc.<br><br>
+						Escolha qualquer produto da cidade de São Paulo Capital: 25 de Março, Brás, Santa Ifigênia, Teodoro Sampaio, Luz, Bom retiro, Centro, Liberdade, Rua das Noivas, etc.<br><br>
 						
 						<strong>1½.O que tem lá?::</strong><br>
-						Você já pensou em comprar qualquer produto que desejar com um preço muito mais acessível, acessórios, roupas,bolsas, enfeites, make up, eletrônicos, etc...
-						Pois bem, estamos aqui pra te auxiliar com isso.<br><br>
+						Você já pensou em comprar qualquer produto que desejar com um preço muito mais baixo? Veja abaixo o que encontrar em cada região<br><br>
 
                         <strong>Na região da 25 de março::</strong><br>
-						Temos muita variedades com artigos importados como, roupas, lojas de embalagens, artigos para cozinha em geral, bijouterias, artigos de papelaria, relógios, calçados, vestidos, entre outros artigos com preços super interessantes<br><br>
+						Referência de boas compras, variedades e preço baixo. Lá encontramos grande 
+                        variedade de roupas, artigos importados, maquiagem, brinquedos, artigos de papelaria, artigos para cozinha, relógios, acessórios para celulares, produtos para cabelo, itens para festa e mesas, fantasias, lingerie, roupinhas para o seu pet, entre outros. <br><br>
 						
 						<strong>Na região do Brás::</strong><br>
-						Um grande polo textil , com grandes lojas de roupas, tecidos e outros artigos, com opções muito legais para quem procura roupas com preços muito em conta entre outros objetos <br><br>
+						Grande polo têxtil com ótimos preços. Encontramos na região grande variedade de roupas femininas, masculinas e infantis, enxoval para bebê, artigos para cama, mesa e banho, calçados, bolsas e cintos, e muito mais. Ideal para quem procura preço baixo e qualidade.<br><br>
 					   
 					   <strong>Na região da Santa Ifigênia::</strong><br>
-                        A maior região de São Paulo com tudo referente à artigos eletrônicos, com grande variedade de peças para compuradores, peças para eletricistas, entre outros artigos eletro-eletrônicos.<br><br>
-					   
-					   
+                        A maior região de São Paulo com tudo referente à artigos eletrônicos, acessórios para celulares e tablet, cabos, carregadores, fones, peças para computadores, sons para carros e doméstico, câmera digital, antenas, entre outros artigos eletro-eletrônicos. <br><br>
+				   
 					   <strong>Na região da Teodoro Sampaio::</strong><br>
-						O verdadeiro paraíso da música, pois tudo que você para qualquer instrumento musical é facilmente encontrado nessa região.<br><br>
+						O verdadeiro paraíso da música. Encontraremos para você instrumentos e tudo o que você precisar para fazer o seu show.<br><br>
 					   
                         <strong>Na região da Luz | Bom retiro::</strong><br>
-						Outro grande polo textil, com muitas opções de tecido, vendas de tecido por metro, roupas masculinas e femininas.<br><br>
+						Grande variedade de roupas da moda, especialmente para o público feminino, moda pluz size, acessórios e calçados e vestidos de festas em geral.<br><br>
 					   
-                       <strong>Na região da Liberdade::</strong><br>
-						O Japão está em SP pois o mundo oriental, está bem localizado no centro de São Paulo, tudo que precisar com aquele toque oriental, tem por aqui, desde espadas samurais, até produtos japoneses como comida, doces , etc, sem contar a enorme variedade de makes up ;) .<br><br>
+                        <strong>Na região da Liberdade::</strong><br>
+						O Japão está em SP pois o mundo oriental, está bem localizado no centro de São Paulo, tudo que precisar com aquele toque oriental, tem por aqui; espadas samurais, produtos japoneses, comidas típicas (entrega somente para São Paulo) além de grande variedade de cosméticos, maquiagens e artigos para manicures e cabeleireiros.<br><br>
 					   					   
-					   <strong>2.Onde estamos?::</strong><br>
+                        <strong>Na região da Rua São Caetano (Rua das Noivas):</strong><br>
+                        Tudo o que você precisa para o seu grande dia (Casamento). Acessórios para noivas e noivos (arranjos para cabelo, véu, luvas) convites prontos, lembrança para padrinhos e lembrancinhas para festa.
+
+                        <strong>2.Onde estamos?::</strong><br>
                         Entre em contato conosco através de nossas redes sociais (<a href="https://twitter.com/comprinhassp" style="color: #000"target="_blank">Twitter</a> |<a href="https://www.facebook.com/comprinhassp" style="color: #000"target="_blank">Facebook</a> |<a href="https://www.pinterest.com/comprinhassp" style="color: #000" target="_blank"> Pinterest</a> | <a href="https://www.instagram.com/comprinhassp"  style="color: #000" target="_blank">Instagram</a> ) ou mesmo contato direto pelo nosso  <a href="whatsapp://send?text=http://www.comprinhassp.com.br (SP)11.971034236 "style="color:#000"> Whatsapp</a> ou <a href="skype:comprinhassp?chat" style="color:#000">Skype</a>
 					    Estamos sempre em busca de um meio para facilitar.<br><br>
-					   
-					   
+					   					   
 					   <strong>3.Ok. Mas como será enviado?::</strong><br>
-						Confirmado o pagamento, nós enviaremos seu produto e código de rastreamento em até 2 dias úteis. Após isso aguarde a entrega dos correios :).
-						<br><br>
+						O atendimento é feito aos sábados e será postado na segunda feira. Encaminharemos por correio, transportadora, motoboy ou uber. O que ficar mais barato para você.<br><br>
 					   
 					   <strong>4.Certo mas o que eu ganho?::</strong><br>
-						Além da economia de seu tempo, a facilidade e conveniência de efetuar uma compra na loja que desejar em São Paulo-SP 
-					    com um simples contato conosco.<br><br>
+						Além da economia de seu tempo, a facilidade e conveniência de efetuar uma compra na loja que desejar no centro de São Paulo, com um simples contato conosco.<br><br>
 					   
 						<strong>5.E o meu cadastro?::</strong><br>
 						Fique tranquilo(a) pois não enviaremos propagandas a não ser que seja muito interessante pra você, e-mail marketing ou coisas do tipo. 
@@ -103,10 +101,8 @@
                         <strong>5.½ Como faremos as negociações?::</strong><br>
                         Faremos as tratativas por <a href="mailto:contato@comprinhassp.com.br" style="color:#000"> e-mail</a>,<a href="skype:comprinhassp?chat" style="color:#000">Skype</a>, <a href="whatsapp://send?text=http://www.comprinhassp.com.br (SP)11.971034236 "style="color:#000"> Whatsapp</a>, Telegram, o que for mais acessível pra você.<br><br> 
 						
-						
 						<strong>6.Gostei, mas quanto custa?::</strong><br>
-                        Para maior segurança, faremos as transações via pagseguro, paypal, ou transferência bancária, e cobraremos pelo nosso serviço a taxa fixa de <span style="color:green"><strong>R$15,00</strong></span> mais as taxas de entrega (correio,
-                        motoboy ou portador) conforme sua escolha.<br><br>
+                        Para maior segurança, faremos as transações via pagseguro, paypal, ou transferência bancária, e cobraremos pelo nosso serviço a taxa fixa de <span style="color:green"><strong>R$15,00</strong></span> e frete.<br><br>
 
                         <strong>7. O Comprinhas SP::</strong><br> No momento estamos trabalhando apenas com indicações de quem conhece nosso trabalho, alguém que utilizou nosso serviço, pois nosso sistema está em construção para um melhor atendimento,
                         caso tenha conhecido através de pesquisas no Google ou indicação de amigos, sejam bem vindos e nos informe como tomou conhecimento sobre nós durante o contato.<br><br>
