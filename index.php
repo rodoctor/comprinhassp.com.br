@@ -102,7 +102,7 @@
                         Faremos as tratativas por <a href="mailto:contato@comprinhassp.com.br" style="color:#000"> e-mail</a>,<a href="skype:comprinhassp?chat" style="color:#000">Skype</a>, <a href="whatsapp://send?text=http://www.comprinhassp.com.br (SP)11.971034236 "style="color:#000"> Whatsapp</a>, Telegram, o que for mais acessível pra você.<br><br> 
 						
 						<strong>6.Gostei, mas quanto custa?::</strong><br>
-                        Para maior segurança, faremos as transações via pagseguro, paypal, ou transferência bancária, e cobraremos pelo nosso serviço a taxa fixa de <span style="color:green"><strong>R$15,00</strong></span> e frete.<br><br>
+                        Para maior segurança, faremos as transações via pagseguro, paypal,depósito em conta ou transferência bancária, e cobraremos pelo nosso serviço a taxa fixa de <span style="color:green"><strong>R$15,00</strong></span> e frete para produtos / pedidos de até R$150,00 e para compras acima desse valor será cobrado 10% no valor total da compra ou pedido.<br><br>
 
                         <strong>7. O Comprinhas SP::</strong><br> No momento estamos trabalhando apenas com indicações de quem conhece nosso trabalho, alguém que utilizou nosso serviço, pois nosso sistema está em construção para um melhor atendimento,
                         caso tenha conhecido através de pesquisas no Google ou indicação de amigos, sejam bem vindos e nos informe como tomou conhecimento sobre nós durante o contato.<br><br>

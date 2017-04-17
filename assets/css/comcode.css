@@ -352,6 +352,8 @@ a:active {
     color: black;
     text-shadow: none;
     text-align: justify;
+    letter-spacing: -1px;
+    word-spacing: -0.5pt;
 }
 
 
