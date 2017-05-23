@@ -2,7 +2,7 @@
     <a href="https://twitter.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/twitter-logo-button_zps83wxqslj.png" alt=" " title="Twitter" data-pin-nopin="true"></a>
     <a href="https://www.instagram.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/instagram-logo_zpsrcoqjhbq.png" alt=" " title="Me siga no Instagram" data-pin-nopin="true"></a>
     <a href="https://www.facebook.com/comprinhassp" style="color: #000" target="_blank"><img src="./assets/images/facebook-logo-button_zps9r39ka5j.png" alt=" " title="Curta minha página" data-pin-nopin="true"></a><br>
-    <p id="copyright">Comprinhas Sp CNPJ: 27.097.897/0001-70 Copyright ©2017 Todos os direitos reservados.Uma ideia do <img draggable="false" class="emoji" alt="❤" src="http://comprinhassp.com.br/assets/images/h.png" data-pin-nopin="true"><br>
+    <p id="copyright">Comprinhas Sp CNPJ: 27.097.897/0001-70 Copyright ©2017 Todos os direitos reservados.Uma ideia do <img draggable="false" class="emoji" alt="❤" src="http://comprinhassp.com.br/assets/images/body4.jpg" data-pin-nopin="true"><br>
 
     <a href="http://abcomm.org/associados.php" target="_blank"><img src="https://cdn.awsli.com.br/1/1430/arquivos/selo_abcomm.png" alt="Empresa Associada"></a>
     <a href="http://www.internetsegura.org/" target="_blank"><img src="https://cdn.awsli.com.br/1/1430/arquivos/segura_interne_erotika.png" data-pin-nopin="true"></a>

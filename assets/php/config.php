@@ -2,7 +2,7 @@
         <meta charset="UTF-8" http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Compre hoje mesmo roupas,make ups, cremes, sapatos, tenis, bijouterias, relógios e muito mais produtos com o melhor preço da cidade de São Paulo com entregas para todo Brasil.">
-        <meta name="keywords" content="mulheres, confiança, conceito, vendas, produtos, pessoas, comprinhas , serviços, preciso de, eu queria, quero,  poderia me ajudar, como conseguir, onde comprar, preço bom, facilidade, compras baratas, compras em são paulo, conveniencia , são paulo, lojas, descontos, promoções">
+        <meta name="keywords" content="mulheres, confiança, onde eu compro, conceito, vendas, produtos, pessoas, comprinhas , serviços, preciso de, eu queria, quero,  poderia me ajudar,bras, brás aqui, sta ifigênia,sta ifigênia aqui,25 de marco, 25 aqui, como conseguir, onde comprar, preço bom, facilidade, compras baratas, compras em são paulo, conveniencia , são paulo, lojas, descontos, eu quero, promoções">
         <meta name="author" content="ComprinhasSP">
     <!--======================================-->
     

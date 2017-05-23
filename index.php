@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br" class="no-js">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
-    <title>.::COMPRINHAS SP::.</title>
+    <title>.::COMPRINHAS SP::. - O melhor local para alcançar suas compras em SP</title>
     <?php include("assets/php/config.php");?>
 </head>
 
